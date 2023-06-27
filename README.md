@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a PhD student at CIMAT specializing in Probability and Statistics. 
+
+ - 🔭 I’m currently working on population genetics models, specifically on frequency processes and their dual processes.
+ - 👯 I’m looking to collaborate on the developement of said models and their application to real biological problems.
+ - 💬 Ask me about Probability and Bayesian Statistics, moreso if population models are involved. (Ask me about anything really!)
+ - 😄 Pronouns: He/him/él
+ - ⚡ Fun fact: I love preparing and sharing coffee. 
